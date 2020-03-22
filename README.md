@@ -12,5 +12,6 @@ counter CDN
     <script src="https://grasee.github.io/jQuery/counter.js"></script>
 
 添加屬性
+
     data-ct-number="數字" 
     data-ct-duration="時間"
